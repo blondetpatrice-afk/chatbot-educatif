@@ -1,0 +1,27 @@
+{
+  "name": "chatbot-educatif-groq",
+  "version": "1.0.0",
+  "description": "Chatbot éducatif propulsé par Groq (gratuit)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build complete'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "chatbot",
+    "education",
+    "groq",
+    "react"
+  ],
+  "author": "Votre nom",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.0.0"
+  }
+}
